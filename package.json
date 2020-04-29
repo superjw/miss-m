@@ -1,0 +1,8 @@
+{
+    "name": "bar-chart",
+    "version": "1.0.0",
+    "description": "some description",
+    "dependencies": {
+        "d3": "^5.16.0"
+    }
+}
